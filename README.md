@@ -1,1 +1,1 @@
-# Bmi-project
+# bmi-project
